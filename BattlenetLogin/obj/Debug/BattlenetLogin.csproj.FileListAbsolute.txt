@@ -1,0 +1,16 @@
+D:\CsharP\BattlenetLogin\BattlenetLogin\bin\Debug\BattlenetLogin.exe.config
+D:\CsharP\BattlenetLogin\BattlenetLogin\bin\Debug\BattlenetLogin.exe
+D:\CsharP\BattlenetLogin\BattlenetLogin\bin\Debug\BattlenetLogin.pdb
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.csproj.AssemblyReference.cache
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.csproj.SuggestedBindingRedirects.cache
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\MainWindow.g.cs
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\App.g.cs
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin_MarkupCompile.cache
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin_MarkupCompile.lref
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\MainWindow.baml
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.g.resources
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.Properties.Resources.resources
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.csproj.GenerateResource.cache
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.csproj.CoreCompileInputs.cache
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.exe
+D:\CsharP\BattlenetLogin\BattlenetLogin\obj\Debug\BattlenetLogin.pdb
